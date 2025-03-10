@@ -1,6 +1,6 @@
 # Riemann Sum in MATLAB
 
-This MATLAB project calculates the **Riemann Sum** for a given function over a specified interval, using left, right, and midpoint sum approximations. It also includes visualization for better understanding.
+This MATLAB project calculates the **Riemann Sum** for a given function over a specified interval, using left, right, and midpoint sum approximations. It includes visualization for better understanding.
 
 ## Features
 - Visualizes the sum with plotted rectangles.
@@ -24,23 +24,23 @@ Or download the ZIP and extract it.
 5. Enter the number of Subintervals.
 6. You will get plots for each type of sum and the respective Riemann Sum.
 
-## Example
+## Example input
+![Example](https://github.com/Dhiyanesh-B/Riemann-sum/blob/9871e4197edb6df984c78f44595bc07352829b70/images/IMG-20250310-WA0007.jpg)
 
-
-
-
-
-This calculates the **Right Riemann Sum** for \( f(x) = \sin(x) \) over \([0, \pi]\) using 20 subintervals.
+This calculates the **Right Riemann Sum** for f(x) = sin(x) over [0, pi] using 20 subintervals.
 
 ## Visualization
 
 ### Left Riemann Sum
-![Left Riemann Sum](https://upload.wikimedia.org/wikipedia/commons/3/38/LeftRiemannSum.gif)
+![Left Riemann Sum](https://github.com/Dhiyanesh-B/Riemann-sum/blob/9871e4197edb6df984c78f44595bc07352829b70/images/IMG-20250310-WA0005.jpg)
 
 ### Right Riemann Sum
-![Right Riemann Sum](https://upload.wikimedia.org/wikipedia/commons/1/12/RightRiemannSum.gif)
+![Right Riemann Sum](https://github.com/Dhiyanesh-B/Riemann-sum/blob/9871e4197edb6df984c78f44595bc07352829b70/images/IMG-20250310-WA0006.jpg)
 
 ### Midpoint Riemann Sum
-![Midpoint Riemann Sum](https://upload.wikimedia.org/wikipedia/commons/d/d1/MidpointRiemannSum.gif)
+![Midpoint Riemann Sum](https://github.com/Dhiyanesh-B/Riemann-sum/blob/9871e4197edb6df984c78f44595bc07352829b70/images/IMG-20250310-WA0008.jpg)
 
 The script plots the function along with the Riemann rectangles, giving an intuitive understanding of how the sum approximates the integral.
+
+---
+⭐ **If you like this project, give it a star!** ⭐
