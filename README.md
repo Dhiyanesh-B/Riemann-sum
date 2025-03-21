@@ -43,8 +43,8 @@ This calculates the **Right Riemann Sum** for f(x) = sin(x) over [0, pi] using 2
 The script plots the function along with the Riemann rectangles, giving an intuitive understanding of how the sum approximates the integral.
 
 ### Team Members
-1.Dhiyanesh B
-2.Parikshit V
+1. Dhiyanesh B
+2. Parikshit V
 
 ---
 ⭐ **If you like this project, give it a star!** ⭐
